@@ -99,9 +99,23 @@ div.introtxt {
   color: rgba(0, 0, 0, .3);
 }
 
+.porfolio h4{
+  font-size: 1.8em;
+}
 
+.porfolio{
+  height: 425px;
+  text-align: center;
+}
 
 .profiles{
   display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  gap: 8px;
+}
 
+.por{
+  
+  border: 1px solid red;
 }
