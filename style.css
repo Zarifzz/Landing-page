@@ -147,14 +147,44 @@ div.introtxt {
 }
 
 .about-us-2{
-  background-color: #0A66C2;
+  background-color: #3882f6;
+  border-radius: 10px;
+  
   display: flex;
   height: 100px;
-  width: 400px;
+  width: 800px;
+
   
 }
 
-.about-us-2 div button{
-  
+.about-us-2 div{
   flex: 1;
+  
+
 }
+
+.about-us-content{
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+.about-us-content p{
+  margin-top: 4px;
+}
+.about-us-content h4{
+  margin-bottom: 0px;
+}
+
+.copyright{
+  background: #1f2737;
+  height: 50px;
+  text-align: center;
+  
+  color: white;
+}
+
+.copyright p{
+  padding-top: 15px;
+}
+
