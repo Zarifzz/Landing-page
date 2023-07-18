@@ -1,2 +1,2 @@
-# basic-frontend-ex
-Simply just a website for looks
+# Landing page only html & css
+A website with no functionality and only using html and css; for practice and made from TOP
